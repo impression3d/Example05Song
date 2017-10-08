@@ -9,5 +9,11 @@
   <References>
   </References>
   <Items>
+    <Item Include="\Audio\Srengenge.mp3">
+      <Name>Srengenge</Name>
+      <BuildAction>Compile</BuildAction>
+      <Importer Name="AudioImporter" />
+      <Processor Name="SongProcessor" />
+    </Item>
   </Items>
 </ContentProject>
